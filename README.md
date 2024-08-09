@@ -56,3 +56,7 @@ Once trained, the model can be used to classify new email texts as either phishi
 ## **Results**
 
 The Model demonstrates strong performance, achieving high accuracy in detecting phishing emails.
+![image](https://github.com/user-attachments/assets/58ad0c02-d0d8-4a8d-8eeb-faa1f86bc899)
+![image](https://github.com/user-attachments/assets/1c1ebd4d-819e-48e9-8764-ab5edfcc117c)
+
+
