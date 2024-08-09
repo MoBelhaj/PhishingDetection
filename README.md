@@ -59,4 +59,4 @@ The Model demonstrates strong performance, achieving high accuracy in detecting 
 ![image](https://github.com/user-attachments/assets/58ad0c02-d0d8-4a8d-8eeb-faa1f86bc899)
 ![image](https://github.com/user-attachments/assets/58ae471c-b2a9-45f6-84fc-fa1a05fb12e8)
 
-
+You can try out the model at this link https://colab.research.google.com/drive/1v1ZPUx5TXqgYLu5WIIqhzfM9lMVwwsTq?usp=sharing , scroll to the 'Using the Model' Section.
