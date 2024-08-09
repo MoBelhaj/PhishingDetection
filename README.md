@@ -69,10 +69,3 @@ Once trained, the model can be used to classify new email texts as either phishi
 ## **Results**
 
 The Model demonstrates strong performance, achieving high accuracy in detecting phishing emails.
-
-
-This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
-
----
-
-This text is formatted for GitHub and excludes code snippets while providing a comprehensive overview of your project.
