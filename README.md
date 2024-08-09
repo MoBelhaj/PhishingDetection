@@ -6,16 +6,13 @@ This repository contains a Phishing Email Detection Model developed using deep l
 
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Modeling Process](#modeling-process)
+3. [Modeling Process](#modeling-process)
    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Text Preprocessing](#text-preprocessing)
    - [Model Building](#model-building)
    - [Model Evaluation](#model-evaluation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Usage](#usage)
+5. [Results](#results)
 
 ## **Introduction**
 
@@ -24,16 +21,6 @@ This project aims to detect phishing emails by analyzing their textual content. 
 ## **Dataset**
 
 The dataset used in this project contains email texts labeled as either "safe" or "phishing." The data undergoes extensive preprocessing to clean and prepare it for the modeling process.
-
-## **Installation**
-
-To use this project, clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/yourusername/PhishingEmailDetection.git
-cd PhishingEmailDetection
-pip install -r requirements.txt
-```
 
 ## **Modeling Process**
 
